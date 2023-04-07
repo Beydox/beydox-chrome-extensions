@@ -2,7 +2,7 @@
 
 Overview:
 
-My Collection of Google Chrome Extensions is a set of browser extensions that provides useful features for enhancing your browsing experience. 
+Beydox Extensions is a set of browser extensions for Google Chrome Browser that provides useful features for enhancing your browsing experience. 
 
 Contributing:
 
