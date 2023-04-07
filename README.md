@@ -10,4 +10,4 @@ If you find any issues or have suggestions for improvement, feel free to open an
 
 License:
 
-My Collection of Chrome Extensions is licensed under the [insert license type here]. See the LICENSE file for more information.
+My Collection of Chrome Extensions is licensed under the MIT
