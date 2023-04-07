@@ -2,7 +2,7 @@
 
 Overview:
 
-Beydox Extensions is a set of browser extensions for Google Chrome Browser that provides useful features for enhancing your browsing experience. 
+Beydox Extensions is a set of browser extensions for Google Chrome browser that provides useful features for enhancing your browsing experience. 
 
 Contributing:
 
@@ -10,4 +10,4 @@ If you find any issues or have suggestions for improvement, feel free to open an
 
 License:
 
-My Collection of Chrome Extensions is licensed under the MIT
+This collection of extensions for Google Chrome browseris licensed under the MIT
